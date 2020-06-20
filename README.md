@@ -1,18 +1,17 @@
-# intern2022_HirokiKondo
+# prise-app
 
-## 起動手順
+## Overview
 
-下記のコマンドで開発用サーバーが起動します。  
-```localhost:3000```でアクセスしてください。
+This is an application that praises the contributions of its members.<br>
+Developed to practice the Context API.
+
+practice context-api
+
+## Run
 
 ```bash
 yarn install
-```
-
-```bash
 yarn start
 ```
 
-## 自己採点
-
-11/11
+Access the web endpoint at http://localhost:3000
