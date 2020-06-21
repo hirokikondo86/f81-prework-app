@@ -5,8 +5,6 @@
 This is an application that praises the contributions of its members.<br>
 Developed to practice the Context API.
 
-practice context-api
-
 ## Run
 
 ```bash
