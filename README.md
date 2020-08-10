@@ -2,8 +2,8 @@
 
 ## Overview
 
+This is developed as Fringe81 pre task<br>
 This is an application that praises the contributions of its members.<br>
-Developed to practice the Context API.
 
 ## Run
 
