@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is developed as Fringe81 pre task<br>
+This was developed as a pre-assignment for Fringe81<br>
 This is an application that praises the contributions of its members.<br>
 
 ## Run
